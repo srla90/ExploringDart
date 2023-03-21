@@ -1,0 +1,14 @@
+void main () {
+  
+  
+  //this is my frist line of code
+  print("Hello World");
+  
+  print("This is my first application");
+  
+  print(4-1);
+  
+  print(true);
+  
+   
+}
